@@ -11,17 +11,17 @@ The following research questions are examined:
 
 Specifically, the research intends to study the correlation between different volumes of information input and user extreme sentiment. The following hypotheses will be tested:
 
-**H1~A~: A high quantity of prior news articles published on a specific keyword is expected to render the current sentiment of eWOM on that keyword more positive.**
+**H1A: A high quantity of prior news articles published on a specific keyword is expected to render the current sentiment of eWOM on that keyword more positive.**
 
-**H1~B~: A high quantity of prior news articles published on a specific keyword is expected to render the current sentiment of eWOM on that keyword more negative.**
+**H1B: A high quantity of prior news articles published on a specific keyword is expected to render the current sentiment of eWOM on that keyword more negative.**
 
-**H1~C~: A high quantity of prior news articles published on a specific keyword is expected to render the current polarity of eWOM on that keyword higher.**
+**H1C: A high quantity of prior news articles published on a specific keyword is expected to render the current polarity of eWOM on that keyword higher.**
 
-**H2~A~: A higher volume of prior eWOM is expected to render the sentiment of current eWOM on that keyword more positive.**
+**H2A: A higher volume of prior eWOM is expected to render the sentiment of current eWOM on that keyword more positive.**
 
-**H2~B~: A higher volume of prior eWOM is expected to render the sentiment of current eWOM on that keyword more negative.**
+**H2B: A higher volume of prior eWOM is expected to render the sentiment of current eWOM on that keyword more negative.**
 
-**H2~C~: A higher volume of prior eWOM is expected to render the polarity of current eWOM on that keyword stronger.**
+**H2C: A higher volume of prior eWOM is expected to render the polarity of current eWOM on that keyword stronger.**
 
 
 The testing of the two sets of hypotheses requires the examination of two factors: the level of information load and the level of eWOM polarity. For **H1~A~**, **H1~B~**, and **H1~C~**, information overload is measured by the total count of articles on a topic (AL1 & AL2) as the independent variable. For **H2~A~**, **H2~B~**, and **H2~C~**, information overload is measured by the total count of tweets on a topic (TL1 & TL2) as the independent variable. For both sets of hypotheses, eWOM polarity is measured by tweet polarity (POL), tweet positivity (POS), and tweet negativity (NEG) as the dependent variable. Both types of independent variables are measured via two separate time lags: on the day preceding the dependent tweet and on the day of the dependent tweet. To account for geographic influences on tweet sentiment, confounding variables are added in the form of dummy values: the number 1 is assigned to one of the regions West (W), Midwest (MW), or Northeast (NE), or absent in all three variables, which indicates the Southern region. For a description of the research variables, see **Table 1**.
